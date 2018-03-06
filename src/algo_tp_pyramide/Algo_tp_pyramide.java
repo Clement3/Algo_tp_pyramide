@@ -29,7 +29,7 @@ public class Algo_tp_pyramide {
                 // Espace est inférieur à la hauteur - la boucle principal
                 for (int espace = 0; espace < hauteur - principal; espace++) {
                     // On affiche l'espace
-                    System.out.print("b");
+                    System.out.print(" ");
                 }
                 // L'etoile est inférieur à 2 x la boucle principal
                 for (int etoile = 0; etoile <= 2 * principal; etoile++) {
